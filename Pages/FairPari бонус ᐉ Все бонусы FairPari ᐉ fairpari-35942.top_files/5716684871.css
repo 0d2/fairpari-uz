@@ -1,0 +1,1 @@
+.banners-component[data-v-047db090]{display:grid;gap:.5rem;grid-template-rows:3.25rem 1fr}@media (min-width:1025px){.banners-component[data-v-047db090]{grid-template-columns:repeat(2,1fr);grid-template-rows:1fr}}.banners-component--has-only-one-widget[data-v-047db090]{grid-template-columns:1fr;grid-template-rows:1fr}.banners-component__widget[data-v-047db090]{overflow:hidden}
